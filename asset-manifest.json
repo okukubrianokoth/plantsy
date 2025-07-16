@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plantsy/static/css/main.3aa837cd.css",
+    "main.js": "/plantsy/static/js/main.360312e6.js",
+    "index.html": "/plantsy/index.html",
+    "main.3aa837cd.css.map": "/plantsy/static/css/main.3aa837cd.css.map",
+    "main.360312e6.js.map": "/plantsy/static/js/main.360312e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa837cd.css",
+    "static/js/main.360312e6.js"
+  ]
+}

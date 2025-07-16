@@ -1,0 +1,52 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Aloe",
+      "image": "https://i.pinimg.com/1200x/8d/21/af/8d21af1924d8c7005f287c5bbb96370f.jpg",
+      "price": 15.99
+    },
+    {
+      "id": "2",
+      "name": "ZZ Plant",
+      "image": "https://i.pinimg.com/736x/87/08/50/870850b90f432d972b6e382f7f862524.jpg",
+      "price": 25.98
+    },
+    {
+      "id": "3",
+      "name": "Pilea peperomioides",
+      "image": "https://i.pinimg.com/736x/24/46/4b/24464b1f3aea1c59639bd18d0d7c8b32.jpg",
+      "price": 5.99
+    },
+    {
+      "id": "4",
+      "name": "Pothos",
+      "image": "https://images.unsplash.com/photo-1593768409671-0d68c6255a48?w=600&h=600&fit=crop",
+      "price": 12.11
+    },
+    {
+      "id": "5",
+      "name": "Jade",
+      "image": "https://i.pinimg.com/1200x/21/f7/8d/21f78dd9cb444054f443f5044412292e.jpg",
+      "price": 56
+    },
+    {
+      "id": "6",
+      "name": "Monstera Deliciosa",
+      "image": "https://i.pinimg.com/736x/61/2d/22/612d2260dc3f10861aa15ffa1ca8bd88.jpg",
+      "price": 25.99
+    },
+    {
+      "id": "7",
+      "name": "Fiddle Leaf Fig",
+      "image": "https://i.pinimg.com/736x/e2/19/32/e219329baff210cf108992aecb45ed44.jpg",
+      "price": 55
+    },
+    {
+      "id": "8",
+      "name": "Euphorbia",
+      "image": "https://i.pinimg.com/736x/ba/b6/58/bab65848f03700a86b8f56e8567839cb.jpg",
+      "price": 56
+    }
+  ]
+}
